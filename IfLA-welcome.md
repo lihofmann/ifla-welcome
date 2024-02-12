@@ -7,7 +7,7 @@ Welcome to the department. Some useful info:
 
 ## Log in to c@mpus (LH)
 
-Link to university pages about the c@mpus portal. [DE](https://www.student.uni-stuttgart.de/uni-a-bis-z/CMPUS--Das-Campus-Management-Portal-der-Universitaet-Stuttgart/)[EN](https://www.student.uni-stuttgart.de/en/digital-services/campus/)
+Link to university pages about the c@mpus portal. [DE](https://www.student.uni-stuttgart.de/uni-a-bis-z/CMPUS--Das-Campus-Management-Portal-der-Universitaet-Stuttgart/)/[EN](https://www.student.uni-stuttgart.de/en/digital-services/campus/)
 
 Your campus username is your employee user account (acXXXXXX).
 
