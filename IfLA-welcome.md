@@ -29,7 +29,7 @@ Kurszeitraum angeben (LH)
 
 Mark your current courses as favorites. This way you don't have to courses that you taught in the previous semesters.
 
-## Advanced-Kurse
+## Modules and students
 ### Different number of credits for the same course
 Mostly in the advanced courses, but also in introductory courses, students will take your course for different modules. The different modules are not always worth the same amount of ECTS points. So, it is common that you will have to create different tasks for 3, 6, and 9 ECTS points for the same class.
 
@@ -41,6 +41,11 @@ Here is an example of how to deal with this for exams: We usually do not offer e
 
 ### MA EASEL students
 The linguistic background of the students from the MA EASEL programm is very diverse given that they are a very international group. Some of them have very little linguistic background, which makes it very hard for them to take our advanced courses, especially for those who chose the Literature track in the MA EASEL and have to take just one import module from linguistics. We want to try to clearly communicate to these students what our requirements are, but we also want to take into account their potential disadvantage.
+
+### Students from PH Ludwigsburg and Hohenheim University
+Some of our courses are open for students from the PH Ludwigsburg and Hohenheim University. Those students are special cases in many respects:
+* They cannot register for courses on C@mpus. So they will inform you some time before the semester starts. We intend to offer them a spot if they ask.
+* They cannot register for exams/term papers. Hence, after grading we send them a certificate for Hohenheim [pdf](https://www.pse-stuttgart-ludwigsburg.de/wp-content/uploads/2016/05/Anerkennungsformular-f%C3%BCr-Lehramtsstudierende-der-Uni-Stuttgart-und-Hohenheim.pdf) and for PH Ludwigsburg ([pdf](https://www.pse-stuttgart-ludwigsburg.de/wp-content/uploads/2016/05/Anerkennungsformular-f%C3%BCr-Lehramtsstudierende-der-PH-Ludwigsburg.pdf)) 
 
 ## Personal info in the university system
 
