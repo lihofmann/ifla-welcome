@@ -13,9 +13,11 @@ Your campus username is your employee user account (acXXXXXX).
 
 ## 2. Login info for email client (LH)
 
-## 3. Managing exams
+## 3. Managing courses and exams
 
-Es wird von der Uni eine Einführung angeboten. (Link einfügen) (ST)
+
+
+In the intranet for employees, there is information on how to organize your course on C@mpus and ILIAS (only in German). [DE](https://www.izus.uni-stuttgart.de/itap/campus/co-hauptprozesse/lehrveranstaltung/) You also find information on how to enter dates for exams and term papers (also only in German). [[DE]]([Link einfügen](https://www.izus.uni-stuttgart.de/itap/campus/co-hauptprozesse/pruefung/))
 
 Unterschied Zweittermin Wiederholungstermin. (LH)
 
