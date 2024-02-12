@@ -19,11 +19,12 @@ Your campus username is your employee user account (acXXXXXX).
 
 In the intranet for employees, there is information on how to organize your course on C@mpus and ILIAS (only in German). [DE](https://www.izus.uni-stuttgart.de/itap/campus/co-hauptprozesse/lehrveranstaltung/) You also find information on how to enter dates for exams and term papers (also only in German). [DE](https://www.izus.uni-stuttgart.de/itap/campus/co-hauptprozesse/pruefung/)
 
+You need to set up one examination date (term paper or exam) for each module that is assigned to your course. You can find the relevant modules and their assigned number (Prüfungsnummer) in the KVV that Ralf Bothner sends around before the semester starts. On C@mpus, search for the respective number assigned to the module and create a new date for those modules that are missing. 
+
 Unterschied Zweittermin Wiederholungstermin. (LH)
 
 Heidi's Methode als Beispiel (LH)
 
-How to look up Module Numbers (KVV) (ST)
 
 ## 4. Some tips for using ILIAS
 
