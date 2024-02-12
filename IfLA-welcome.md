@@ -45,7 +45,8 @@ The linguistic background of the students from the MA EASEL programm is very div
 ### Students from PH Ludwigsburg and Hohenheim University
 Some of our courses are open for students from the PH Ludwigsburg and Hohenheim University. Those students are special cases in many respects:
 * They cannot register for courses on C@mpus. So they will inform you some time before the semester starts. We intend to offer them a spot if they ask.
-* They cannot register for exams/term papers. Hence, after grading we send them a certificate for Hohenheim [pdf](https://www.pse-stuttgart-ludwigsburg.de/wp-content/uploads/2016/05/Anerkennungsformular-f%C3%BCr-Lehramtsstudierende-der-Uni-Stuttgart-und-Hohenheim.pdf) and for PH Ludwigsburg ([pdf](https://www.pse-stuttgart-ludwigsburg.de/wp-content/uploads/2016/05/Anerkennungsformular-f%C3%BCr-Lehramtsstudierende-der-PH-Ludwigsburg.pdf)) 
+* They cannot register for the ILIAS course. We have to enter them manually with their user name. They can tell you.
+* They cannot register for exams/term papers. Hence, after grading we send them a certificate about their grade for Hohenheim ([pdf](https://www.pse-stuttgart-ludwigsburg.de/wp-content/uploads/2016/05/Anerkennungsformular-f%C3%BCr-Lehramtsstudierende-der-Uni-Stuttgart-und-Hohenheim.pdf)) or for PH Ludwigsburg ([pdf](https://www.pse-stuttgart-ludwigsburg.de/wp-content/uploads/2016/05/Anerkennungsformular-f%C3%BCr-Lehramtsstudierende-der-PH-Ludwigsburg.pdf)).
 
 ## Personal info in the university system
 
