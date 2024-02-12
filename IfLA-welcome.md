@@ -2,7 +2,7 @@
 
 Welcome to the department. Some useful info:
 
-## Your university account 
+## 1. Your university account 
 
 
 ## Log in to c@mpus (LH)
@@ -29,7 +29,7 @@ Kurszeitraum angeben (LH)
 
 Mark your current courses as favorites. This way you don't have to courses that you taught in the previous semesters.
 
-## Modules and students
+## 5. Modules and students
 ### Different number of credits for the same course
 Mostly in the advanced courses, but also in introductory courses, students will take your course for different modules. The different modules are not always worth the same amount of ECTS points. So, it is common that you will have to create different tasks for 3, 6, and 9 ECTS points for the same class.
 * Here is an example of how to deal with this for term papers: The length of the term paper depends on the number of credits, e.g., 2000 words per 3 credits. The task could be reduced for 3 ECTS.
@@ -44,7 +44,7 @@ Some of our courses are open for students from the PH Ludwigsburg and Hohenheim 
 * They cannot register for the ILIAS course. We have to enter them manually with their user name. They can tell you.
 * They cannot register for exams/term papers. Hence, after grading we send them a certificate about their grade for Hohenheim ([pdf](https://www.pse-stuttgart-ludwigsburg.de/wp-content/uploads/2016/05/Anerkennungsformular-f%C3%BCr-Lehramtsstudierende-der-Uni-Stuttgart-und-Hohenheim.pdf)) or for PH Ludwigsburg ([pdf](https://www.pse-stuttgart-ludwigsburg.de/wp-content/uploads/2016/05/Anerkennungsformular-f%C3%BCr-Lehramtsstudierende-der-PH-Ludwigsburg.pdf)).
 
-## Personal info in the university system
+## 6. Personal info in the university system
 
 It's important that the university system has your correct personal info. If you notice that it isn't correct, you can contact the Personalabteilung.
 
