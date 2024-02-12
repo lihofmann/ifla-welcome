@@ -36,7 +36,7 @@ Mostly in the advanced courses, but also in introductory courses, students will 
 * Here is an example of how to deal with this for exams: We usually do not offer exams for less than 3 ECTS. So everybody writes an exam for 6 ECTS. For 9 ECTS, there is an additional 3 ECTS take-home exam which counts one third of the grade, while the exam counts two thirds.
 
 ### MA EASEL students
-The linguistic background of the students from the MA EASEL programm is very diverse given that they are a very international group. Some of them have very little linguistic background, which makes it very hard for them to take our advanced courses, especially for those who chose the Literature track in the MA EASEL and have to take just one import module from linguistics. We want to try to clearly communicate to these students what our requirements are, but we also want to take into account their potential disadvantage.
+The linguistic background of the students from the MA EASEL programm is very diverse given that they are a very international group. Some of them have very little linguistic background, which makes it very hard for them to follow and successfully complete our advanced courses. It is particularly difficult for those students who chose the literature track in the MA EASEL and have to take just one import module from linguistics. We want to try to clearly communicate to these students what our requirements are, but we also want to take into account their potential disadvantage.
 
 ### Students from PH Ludwigsburg and Hohenheim University
 Some of our courses are open for students from the PH Ludwigsburg and Hohenheim University. Those students are special cases in many respects:
