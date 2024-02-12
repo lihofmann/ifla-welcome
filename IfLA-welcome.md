@@ -14,8 +14,8 @@ Your campus username is your employee user account (acXXXXXX).
 ## 2. Login info for email client (LH)
 
 ## 3. Managing courses and exams
-* In the intranet for employees, there is information on how to organize your courses on C@mpus and ILIAS (only in German). [DE](https://www.izus.uni-stuttgart.de/itap/campus/co-hauptprozesse/lehrveranstaltung/)
-* In the intranet for employees, you also find information on how to enter dates for exams and term papers (also only in German). [DE](https://www.izus.uni-stuttgart.de/itap/campus/co-hauptprozesse/pruefung/)
+* In the intranet for employees, there is information on how to organize your courses on C@mpus and ILIAS [here](https://www.izus.uni-stuttgart.de/itap/campus/co-hauptprozesse/lehrveranstaltung/) (only in German). 
+* In the intranet for employees, you also find information on how to enter dates for exams and term papers [here](https://www.izus.uni-stuttgart.de/itap/campus/co-hauptprozesse/pruefung/) (also only in German). 
 * Good to know: On C@mpus, you need to set up one examination date (term paper or exam) for each module that is assigned to your course. You can find the relevant modules and their assigned number (Prüfungsnummer) in the KVV, that Ralf Bothner sends around before the semester starts, below your course description. On C@mpus, search for the respective number assigned to the module and create a new date for those modules that are missing. 
 
 Unterschied Zweittermin Wiederholungstermin. (LH)
