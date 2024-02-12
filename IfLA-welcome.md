@@ -33,7 +33,9 @@ Mark your current courses as favorites. This way you don't have to courses that 
 ### Different number of credits for the same course
 Mostly in the advanced courses, but also in introductory courses, students will take your course for different modules. The different modules are not always worth the same amount of ECTS points. So, it is common that you will have to create different tasks for 3, 6, and 9 ECTS points for the same class.
 
+
 Here is an example of how to deal with this for term papers: The length of the term paper depends on the number of credits, e.g., 2000 words per 3 credits. The task could be reduced for 3 ECTS.
+
 
 Here is an example of how to deal with this for exams: We usually do not offer exams for less than 3 ECTS. So everybody writes an exam for 6 ECTS. For 9 ECTS, there is an additional 3 ECTS take-home exam which counts one third of the grade, while the exam counts two thirds.
 
