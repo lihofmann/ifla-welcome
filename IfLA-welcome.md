@@ -30,12 +30,15 @@ Kurszeitraum angeben (LH)
 Mark your current courses as favorites. This way you don't have to courses that you taught in the previous semesters.
 
 ## Advanced-Kurse
+### Different number of credits for the same course
+Mostly in the advanced courses, but also in introductory courses, students will take your course for different modules. The different modules are not always worth the same amount of ECTS points. So, it is common that you will have to create different tasks for 3, 6, and 9 ECTS points for the same class.
 
-Mostly in the advanced courses, but also in introductory courses, students will take your course for different modules. The different modules are not always worth the same amount of ECTS points. So, it is common that you will have to create requirements for 3, 6, and 9 ECTS points for the same class.
 Here is an example of how to deal with this for term papers: The length of the term paper depends on the number of credits, e.g., 2000 words per 3 credits. The task could be reduced for 3 ECTS.
+
 Here is an example of how to deal with this for exams: We usually do not offer exams for less than 3 ECTS. So everybody writes an exam for 6 ECTS. For 9 ECTS, there is an additional 3 ECTS take-home exam which counts one third of the grade, while the exam counts two thirds.
 
-MA EASEL - Unterschiedliche Kentnisstände (ST)
+### MA EASEL students
+The linguistic background of the students from the MA EASEL programm is very diverse given that they are a very international group. Some of them have very little linguistic background, which makes it very hard for them to take our advanced courses, especially for those who chose the Literature track in the MA EASEL and have to take just one import module from linguistics. We want to try to clearly communicate to these students what our requirements are, but we also want to take into account their potential disadvantage.
 
 ## Personal info in the university system
 
