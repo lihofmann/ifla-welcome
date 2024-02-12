@@ -17,7 +17,7 @@ Your campus username is your employee user account (acXXXXXX).
 
 
 
-In the intranet for employees, there is information on how to organize your course on C@mpus and ILIAS (only in German). [DE](https://www.izus.uni-stuttgart.de/itap/campus/co-hauptprozesse/lehrveranstaltung/) You also find information on how to enter dates for exams and term papers (also only in German). [[DE]]([Link einfügen](https://www.izus.uni-stuttgart.de/itap/campus/co-hauptprozesse/pruefung/))
+In the intranet for employees, there is information on how to organize your course on C@mpus and ILIAS (only in German). [DE](https://www.izus.uni-stuttgart.de/itap/campus/co-hauptprozesse/lehrveranstaltung/) You also find information on how to enter dates for exams and term papers (also only in German). [DE](https://www.izus.uni-stuttgart.de/itap/campus/co-hauptprozesse/pruefung/)
 
 Unterschied Zweittermin Wiederholungstermin. (LH)
 
