@@ -54,8 +54,8 @@ Some of our courses are open for students from the PH Ludwigsburg and Hohenheim 
 * They cannot register for the ILIAS course. We have to enter them manually with their user name. They can tell you.
 * They cannot register for exams/term papers. Hence, after grading we send them a certificate about their grade for Hohenheim ([pdf](https://www.pse-stuttgart-ludwigsburg.de/wp-content/uploads/2016/05/Anerkennungsformular-f%C3%BCr-Lehramtsstudierende-der-Uni-Stuttgart-und-Hohenheim.pdf)) or for PH Ludwigsburg ([pdf](https://www.pse-stuttgart-ludwigsburg.de/wp-content/uploads/2016/05/Anerkennungsformular-f%C3%BCr-Lehramtsstudierende-der-PH-Ludwigsburg.pdf)).
 
-### Breitscheidstraße
-You need a special adapater in this room. (ST)
+### Room 2.11 in Breitscheidstraße 2b
+You need a special adapater in this room for connecting your computer to the projector. When you first connect your computer, a software is automatically downloaded from the internet. So make sure you have an internet connection, e.g., via eduroam.
 
 
 ## Resources for research
