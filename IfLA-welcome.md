@@ -54,8 +54,8 @@ Some of our courses are open for students from the PH Ludwigsburg and Hohenheim 
 * They cannot register for the ILIAS course. We have to enter them manually with their user name. They can tell you.
 * They cannot register for exams/term papers. Hence, after grading we send them a certificate about their grade for Hohenheim ([pdf](https://www.pse-stuttgart-ludwigsburg.de/wp-content/uploads/2016/05/Anerkennungsformular-f%C3%BCr-Lehramtsstudierende-der-Uni-Stuttgart-und-Hohenheim.pdf)) or for PH Ludwigsburg ([pdf](https://www.pse-stuttgart-ludwigsburg.de/wp-content/uploads/2016/05/Anerkennungsformular-f%C3%BCr-Lehramtsstudierende-der-PH-Ludwigsburg.pdf)).
 
-## Breitscheidstraße
-Adapater (ST)
+### Breitscheidstraße
+You need a special adapater in this room. (ST)
 
 
 ## Resources for research
@@ -67,7 +67,7 @@ To check out books from the Institute Library, ask Ralf to email them your perso
 
 * I can provide some instructions about filling our forms for reimbursements, when I process my next reimbursement request in the following couple of weeks (LH).
 
-## LING drive
+### LING drive
 How to access (LH) 
 
 ## Other admin
