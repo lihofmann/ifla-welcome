@@ -48,7 +48,7 @@ Students in your courses can be enrolled in one of the following study programs 
 * MA or BA Computer linguistics
 * B.Sc./M.Sc. Wirtschaftspädagogik (Economic Education) at Hohenheim University
 
-You might have a very mixed group from the different study programs in your course. The majority of students in introductory classes is usually BA English Lehramt followed by some BA Anglistik students. Advanced courses are usually more mixed.
+You might have a very mixed group from the different study programs in your course. The majority of students in introductory classes is usually BA English Lehramt followed by some BA Anglistik students. Advanced courses are usually more mixed. Each study program has different modules assigned to your class (see next point).
 
 #### Different number of credits for the same course
 Mostly in the advanced courses, but also in introductory courses, students will take your course for different modules. The different modules are not always worth the same amount of ECTS points. So, it is common that you will have to create different tasks for 3, 6, and 9 ECTS points for the same class.
