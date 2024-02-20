@@ -40,13 +40,20 @@ Class contents will be provided to the students on the online platform ILIAS. An
 * Another way of dealing with this would be marking your current courses as favorites (but in that case, this solution will not affect the way your class is displayed for students).
 
 ### Modules and students
+#### Study programs
+Students in your courses can be enrolled in one of the following study programs below:
+* BA or MA Anglistik
+* BA or MA English Lehramt (Education)
+* MA EASEL (This is a very international group. The linguistic background of the students from this programm is very diverse.)
+* MA or BA Computer linguistics
+* B.Sc./M.Sc. Wirtschaftspädagogik (Economic Education) at Hohenheim University
+
+You might have a very mixed group from the different study programs in your course.
+
 #### Different number of credits for the same course
 Mostly in the advanced courses, but also in introductory courses, students will take your course for different modules. The different modules are not always worth the same amount of ECTS points. So, it is common that you will have to create different tasks for 3, 6, and 9 ECTS points for the same class.
 * Here is an example of how to deal with this for term papers: The length of the term paper depends on the number of credits, e.g., 2000 words per 3 credits. The task could be reduced for 3 ECTS.
 * Here is an example of how to deal with this for exams: We usually do not offer exams for 3 ECTS. So everybody writes an exam for 6 ECTS. For 9 ECTS, there is an additional 3 ECTS take-home exam which counts one third of the grade, while the exam counts two thirds.
-
-#### MA EASEL students
-The linguistic background of the students from the MA EASEL programm is very diverse given that they are a very international group. Some of them have very little linguistic background, which makes it very hard for them to follow and successfully complete our advanced courses. It is particularly difficult for those students who chose the literature track in the MA EASEL and have to take just one import module from linguistics. We want to try to clearly communicate to these students what our requirements are, but we also want to take into account their potential disadvantage.
 
 ### Students from PH Ludwigsburg and Hohenheim University
 Some of our courses are open for students from the PH Ludwigsburg and Hohenheim University. Those students are special cases in many respects:
