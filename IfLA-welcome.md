@@ -42,8 +42,8 @@ Class contents will be provided to the students on the online platform ILIAS. An
 ### Modules and students
 #### Study programs
 Students in your courses can be enrolled in one of the following study programs below:
-* BA or MA Anglistik
-* BA or MA English Lehramt (Education)
+* [BA English](https://www.uni-stuttgart.de/en/study/bachelor-programs/english-b.a./)
+* [BEd English Education](https://www.uni-stuttgart.de/en/study/bachelor-programs/english-teaching-qualification-b.a./) or [MEd English Lehramt](https://www.uni-stuttgart.de/en/study/study-programs/English-M.Ed.-Teaching-Qualification-00001/)
 * [MA EASEL](https://www.uni-stuttgart.de/en/study/study-programs/English-and-American-Studies---English-Linguistics-M.A./) (This is a very international group. The linguistic background of the students from this programm is very diverse.)
 * MA or BA Computer linguistics
 * B.Sc./M.Sc. Wirtschaftspädagogik (Economic Education) at Hohenheim University
