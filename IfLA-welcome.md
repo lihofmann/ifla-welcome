@@ -43,9 +43,9 @@ Class contents will be provided to the students on the online platform ILIAS. An
 #### Study programs
 Students in your courses can be enrolled in one of the following study programs below:
 * [BA English](https://www.uni-stuttgart.de/en/study/bachelor-programs/english-b.a./)
-* [BEd English Education](https://www.uni-stuttgart.de/en/study/bachelor-programs/english-teaching-qualification-b.a./) or [MEd English Lehramt](https://www.uni-stuttgart.de/en/study/study-programs/English-M.Ed.-Teaching-Qualification-00001/)
+* [BEd English Education](https://www.uni-stuttgart.de/en/study/bachelor-programs/english-teaching-qualification-b.a./) or [MEd English Education](https://www.uni-stuttgart.de/en/study/study-programs/English-M.Ed.-Teaching-Qualification-00001/)
 * [MA EASEL](https://www.uni-stuttgart.de/en/study/study-programs/English-and-American-Studies---English-Linguistics-M.A./) (This is a very international group. The linguistic background of the students from this programm is very diverse.)
-* MA or BA Computer linguistics
+* [M.Sc. Computer linguistics](https://www.uni-stuttgart.de/en/study/study-programs/Computational-Linguistics-M.Sc-00001./)
 * B.Sc./M.Sc. Wirtschaftspädagogik (Economic Education) at Hohenheim University
 
 You might have a very mixed group from the different study programs in your course. The majority of students in introductory classes is usually BA English Lehramt followed by some BA Anglistik students. Advanced courses are usually more mixed. Each study program has different modules assigned to your class (see next point).
